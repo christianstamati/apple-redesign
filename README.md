@@ -1,3 +1,5 @@
+![project cover](https://github.com/christianstamati/apple-redesign/blob/main/images/cover.gif)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -26,9 +28,15 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+[Link]()
+## About the Project
 
-## Deploy on Vercel
+I built this project following a tutorial from [ILW Yennefer](https://www.youtube.com/watch?v=DCTuw2P6DCU&t=11723s) on youtube. I learned how Next.js works with Typescript and about Sanity and how to update the content on the website.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Stack
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [Next.js](https://nextjs.org/)
+- [Sanity.io](https://www.sanity.io/)
+- [Heroicons](https://heroicons.com/)
+- [HeadlessUI](https://headlessui.com/)
+- [Tailwindcss](https://tailwindcss.com/)
